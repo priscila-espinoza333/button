@@ -1,0 +1,30 @@
+.btn-buscar, .btn-agregar, .btn-primary {
+    display: block;
+    margin-bottom: 10px;
+    height: 40px;
+}
+
+.btn-buscar {
+    font-weight: 900;
+    width: 100px;
+    border-radius: 40px;
+    color: #c87dc8;
+    border: 5px solid #c87db3;
+    background-color: #fff;
+}
+
+.btn-agregar {
+    width: 40px;
+    background-color: #00b2d1;
+    color: rgb(255, 255, 255);
+    border-radius: 80%;
+    border: none;
+}
+
+.btn-primary {
+    width: 150px;
+    background-color: #e42bce;
+    color: rgb(40, 151, 211);
+    border: 5px solid #000;
+    box-shadow: 60px -16px teal;
+}
